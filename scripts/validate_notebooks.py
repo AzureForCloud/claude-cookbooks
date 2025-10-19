@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate notebook structure and content."""
+"""Validate notebook structure and content"""
 
 import json
 import sys
